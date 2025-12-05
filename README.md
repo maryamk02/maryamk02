@@ -17,7 +17,7 @@ I'm currently building practical SQL projects and strengthening my quantitative 
 - Building SQL projects from Codecademy exercises to practice database creation, querying, and analysis  
 
 ### 📂 Projects
-- **Friends Birthday Database (SQL)**: Created a SQL database to practice table creation, inserting, updating, and querying records
+- **Friends Birthday Database (SQL)**- Created a SQL database to practice table creation, inserting, updating, and querying records
 
 ### ⚡️ Fun Facts 
 - I love watching thriller dramas and trying to piece together every clue before the plot twist hits
