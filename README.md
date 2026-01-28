@@ -1,27 +1,26 @@
-## Hey! Welcome to my GitHub 👋
+## Hi, I'm Maryam 👋
 
-I'm currently building practical SQL projects and strengthening my quantitative and analytical skills, with a focus on data analysis and evidence-based problem solving.
+Data analyst with experience in Excel, R, and SQL (basic). Economics (BA) and International Public Policy (MSc) graduate, currently learning SQL and Python. 
 
-### 🔧 Technical Skills
-- **SQL**: Building queries and analysing datasets  
-- **R**: Modelling, data analysis, visualisation  
-- Econometrics & Quantitative Methods  
-- Data Cleaning & Statistical Evaluation  
-- Report Writing & Data Communication
+### 🛠️ Skills and Tools
+- **Experienced**: Excel, R
+- **Learning**: SQL, Python, Tableau, Power BI
 
-### 🌱 Currently Learning
-- SQL for advanced querying and analysis  
-- Foundations of Python-based data analysis  
+### 📊 Featured Projects
+- **Customer Segmentation Analysis (https://github.com/maryamk02/customer-segmentation-analysis)**: Analysed retail transaction data using Excel to identify customer segments and purchasing patterns 
 
-### 🔭 Currently Working On
-- Building SQL projects from Codecademy exercises to practice database creation, querying, and analysis  
+### 🌱 What I'm Working On
+- SQL for querying and analysis
+- Python for data analysis
+- Tableau & Power BI for visualisation
+- Expanding my portfolio with real-world datasets
 
-### 📂 Projects
-- **Friends Birthday Database (SQL)**: Created a SQL database to practice table creation, inserting, updating, and querying records
+### 💡 Background 
+- Years of policy research taught me to ask "who's missing from this data?" before running analysis. I combine economics and policy thinking with technical skills recognising confounding variables, translating findings for decision-makers, and being comfortable when data contradicts itself.
 
 ### ⚡️ Fun Facts 
 - I love watching thriller dramas and trying to piece together every clue before the plot twist hits
-- I enjoy experimenting with spices to give everyday dishes a new twist
 - I can't help but chase the "why" behind everything, exploring how and why things work the way they do
 
-
+### 📫 Connect
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-khan-236253242/) 
