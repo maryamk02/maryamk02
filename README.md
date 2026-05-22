@@ -1,6 +1,6 @@
 ## Hi, I'm Maryam 👋
 
-Data analyst with experience in Excel, R, and SQL (basic). Economics (BA) and International Public Policy (MSc) graduate, currently learning SQL and Python. 
+Data analyst with experience in Excel, SQL, Python, Power BI, and R. Economics (BA) and International Public Policy (MSc) graduate, currently exploring SQL and Python. 
 
 ### 🛠️ Skills and Tools
 - **Experienced**: Excel, R, SQL, Python, Power BI
