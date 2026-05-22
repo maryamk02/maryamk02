@@ -3,8 +3,8 @@
 Data analyst with experience in Excel, R, and SQL (basic). Economics (BA) and International Public Policy (MSc) graduate, currently learning SQL and Python. 
 
 ### 🛠️ Skills and Tools
-- **Experienced**: Excel, R
-- **Learning**: SQL, Python, Tableau, Power BI
+- **Experienced**: Excel, R, SQL, Python, Power BI
+- **Learning**: Tableau
 
 ### 📊 Featured Projects
 - **Customer Segmentation Analysis (https://github.com/maryamk02/customer-segmentation-analysis)**: Analysed retail transaction data using Excel to identify customer segments and purchasing patterns 
