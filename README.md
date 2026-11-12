@@ -1,6 +1,6 @@
 ## Hi, I'm Maryam 👋
 
-Client-facing analyst with a First Class in Economics, moving into data analysis after four years as clients' primary point of contact.
+Client-facing professional with a First Class in Economics, moving into data analysis after four years as clients' primary point of contact.
 
 **Economics BA (First Class), Goldsmiths · MSc International Public Policy, Queen Mary University of London**
 
